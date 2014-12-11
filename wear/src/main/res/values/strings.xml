@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MetroDeluxe</string>
+    <string name="title_activity_metro_deluxe_wear">Metro Deluxe</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+
+</resources>

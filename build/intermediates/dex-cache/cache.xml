@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/realandylawton/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.1/860340562250678d1a344907ac75754e259cdb14/hamcrest-core-1.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="860340562250678d1a344907ac75754e259cdb14">
+        <dex dex="/Users/realandylawton/Dev/Android/MetroDeluxe/mobile/build/intermediates/pre-dexed/test/debug/hamcrest-core-1.1-76dc4ce8bab1cb611184a00ac87a58b81c4b67e1.jar" />
+    </item>
+    <item
+        jar="/Users/realandylawton/.gradle/caches/modules-2/files-2.1/org.objenesis/objenesis/1.0/9b473564e792c2bdf1449da1f0b1b5bff9805704/objenesis-1.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9b473564e792c2bdf1449da1f0b1b5bff9805704">
+        <dex dex="/Users/realandylawton/Dev/Android/MetroDeluxe/mobile/build/intermediates/pre-dexed/test/debug/objenesis-1.0-376d9de04a661d1faff111c311005115ed687129.jar" />
+    </item>
+    <item
+        jar="/Users/realandylawton/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.4.0/f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2/picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="/Users/realandylawton/Dev/Android/MetroDeluxe/mobile/build/intermediates/pre-dexed/debug/picasso-2.4.0-827857b11dfae02ddbad895917961ac5cd35c889.jar" />
+    </item>
+    <item
+        jar="/Users/realandylawton/.gradle/caches/modules-2/files-2.1/com.google.dexmaker/dexmaker/1.1/d3bd67f808388617bc9a4a7d640d86c1242df109/dexmaker-1.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d3bd67f808388617bc9a4a7d640d86c1242df109">
+        <dex dex="/Users/realandylawton/Dev/Android/MetroDeluxe/mobile/build/intermediates/pre-dexed/test/debug/dexmaker-1.1-d7c8abe9b222ed8d73e9fb89ead9cf3eaa4de29e.jar" />
+    </item>
+    <item
+        jar="/Users/realandylawton/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/1.9.5/c3264abeea62c4d2f367e21484fbb40c7e256393/mockito-core-1.9.5.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="c3264abeea62c4d2f367e21484fbb40c7e256393">
+        <dex dex="/Users/realandylawton/Dev/Android/MetroDeluxe/mobile/build/intermediates/pre-dexed/test/debug/mockito-core-1.9.5-15e2d2bb69587b393cfdfeda30fab8aedeae8061.jar" />
+    </item>
+    <item
+        jar="/Users/realandylawton/.gradle/caches/modules-2/files-2.1/com.google.dexmaker/dexmaker-mockito/1.1/d9129a14a2ea369ff8eaeef1f2f5efcb1dc17c54/dexmaker-mockito-1.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d9129a14a2ea369ff8eaeef1f2f5efcb1dc17c54">
+        <dex dex="/Users/realandylawton/Dev/Android/MetroDeluxe/mobile/build/intermediates/pre-dexed/test/debug/dexmaker-mockito-1.1-ddd7124c5cf9e6fe5b0b507cc1d39f3fb0d92e1b.jar" />
+    </item>
+
+</items>

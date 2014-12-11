@@ -1,0 +1,18 @@
+{
+    "Address": {
+        "City": "Arlington",
+        "State": "VA",
+        "Street": "1850 N. Moore Street",
+        "Zip": "22209"
+    },
+    "Code": "C05",
+    "Lat": 38.8959790962,
+    "LineCode1": "BL",
+    "LineCode2": "OR",
+    "LineCode3": "SV",
+    "LineCode4": null,
+    "Lon": -77.0709086853,
+    "Name": "Rosslyn",
+    "StationTogether1": "",
+    "StationTogether2": ""
+}
